@@ -6,7 +6,7 @@ unsigned char ucBlinkCounter=0;
 unsigned char ucLedState=0;
 unsigned char ucLedCounter=0;
 
-void Delay(int iDelayInMS){ 
+void Delay(int iDelayInMS){ //kom
  
  int iLoopCounter; 
   
